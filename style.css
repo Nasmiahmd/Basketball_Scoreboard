@@ -1,24 +1,24 @@
-body{
-  background-color: #D9E8DE;
+body {
+  background-color: #d9e8de;
   margin: 10px;
   font-family: "Inter", sans-serif;
   text-transform: uppercase;
   justify-items: center;
 }
 
-.container{
+.container {
   width: 510px;
   height: 340px;
-  background-color: #171F42;
+  background-color: #171f42;
   border-radius: 15px;
   border: 5px solid white;
   display: flex;
   flex-direction: row;
   text-align: center;
-  justify-content:space-around;
+  justify-content: space-around;
 }
 
-h1{
+h1 {
   font-size: 42px;
   font-weight: 800;
   color: white;
@@ -26,33 +26,31 @@ h1{
   margin-bottom: 0;
 }
 
-h3{
+h3 {
   width: 120px;
   height: 100px;
   background-color: black;
   text-align: center;
   font-size: 88px;
-  color: #F64460;
+  color: #f64460;
   margin: 25px;
 }
 
-#reset-btn{
+#reset-btn {
   margin-top: 10px;
   margin-bottom: 40px;
   width: 50px;
 }
 
-button{
+button {
   background-color: transparent;
-  border: 1px solid #6C7799;
+  border: 1px solid #6c7799;
   font-size: 14px;
   color: white;
   width: 30px;
   height: 30px;
-
 }
 
-button:hover{
-  background-color: #6C7799;
+button:hover {
+  background-color: #6c7799;
 }
-
